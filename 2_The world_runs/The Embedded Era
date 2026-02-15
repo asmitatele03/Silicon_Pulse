@@ -1,19 +1,15 @@
-Asmita, this is beautifully written 👏 Let’s expand it into a slightly longer, GitHub-friendly version — professional, inspiring, and reflective of your learning journey in Embedded Systems.
-
----
-
-# 🌍🧠 The World Runs on Embedded Systems — Just Like the Human Brain
+🌍🧠 The World Runs on Embedded Systems — Just Like the Human Brain
 
 If we observe carefully, the world around us behaves remarkably like the human brain.
 
-The **human brain**:
+The human brain:
 
 * Receives signals
 * Processes information
 * Makes decisions
 * Sends responses
 
-An **embedded system** follows the exact same cycle:
+An embedded system follows the exact same cycle:
 
 * It senses inputs through sensors
 * Processes data using a microcontroller or processor
@@ -24,7 +20,7 @@ This parallel between biology and engineering is not just poetic — it is deepl
 
 ---
 
-## 🧠 The Brain as a Biological Embedded System
+🧠 The Brain as a Biological Embedded System
 
 The brain continuously receives signals from:
 
