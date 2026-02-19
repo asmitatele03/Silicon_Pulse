@@ -18,16 +18,16 @@ and hardware becomes the body that obeys it.
 With embedded systems, a simple block of code can:
 
 🔹 **Start an engine**
-…turning electrical pulses into roaring movement.
+turning electrical pulses into roaring movement.
 
 🔹 **Monitor a heartbeat**
-…keeping someone alive by interpreting microvolt-level signals.
+keeping someone alive by interpreting microvolt-level signals.
 
 🔹 **Stabilize a drone**
-…making real-time decisions hundreds of times per second.
+making real-time decisions hundreds of times per second.
 
 🔹 **Power a satellite**
-…holding systems steady in the vacuum of space with perfect timing.
+holding systems steady in the vacuum of space with perfect timing.
 
 In this world, **every byte matters**.
 Every instruction is placed with purpose.
