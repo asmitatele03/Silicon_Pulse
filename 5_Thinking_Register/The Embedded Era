@@ -9,9 +9,9 @@ It is about controlling reality.
 
 When we write:
 
-
+######
 GPIO_PORT |= (1 << 21);
-
+######
 
 We are not just setting a bit.
 We are commanding hardware.
